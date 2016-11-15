@@ -1,0 +1,83 @@
+Some links for those who want to explore further:
+
+Original LSM-Tree Paper
+http://www.cs.umb.edu/~poneil/lsmtree.pdf
+ 
+ 
+State of the Storage Engine
+http://www.xaprb.com/blog/2015/04/02/state-of-the-storage-engine/
+ 
+ 
+Data Structures and Algorithms for Big Databases
+http://www3.cs.stonybrook.edu/~bender/talks/2013-BenderKuszmaul-xldb-tutorial.pdf
+ 
+ 
+BigTable
+http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+ 
+ 
+LevelDB
+http://highscalability.com/blog/2011/8/10/leveldb-fast-and-lightweight-keyvalue-database-from-the-auth.html
+https://github.com/google/leveldb
+ 
+ 
+RocksDB
+http://rocksdb.blogspot.com/
+https://github.com/facebook/rocksdb
+https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-and-open-sourcing-rocksdb/10151822347683920/
+ 
+ 
+AsterixDB
+https://asterix.ics.uci.edu/pub/StorageManagement.pdf
+https://asterixdb.apache.org/
+https://github.com/apache/asterixdb
+ 
+ 
+WiscKey
+https://www.usenix.org/system/files/conference/fast16/fast16-papers-lu.pdf
+ 
+ 
+Indeed LSM Tree
+https://github.com/indeedeng/lsmtree
+ 
+ 
+SQLite LSM
+https://www.sqlite.org/src4/doc/trunk/www/lsmusr.wiki
+https://www.sqlite.org/src4/doc/trunk/www/lsmapi.wiki
+http://sqlite.org/src/doc/trunk/README.md
+ 
+ 
+KyotoCabinet vs LevelDB internals
+http://codecapsule.com/2012/12/30/implementing-a-key-value-store-part-3-comparative-analysis-of-the-architectures-of-kyoto-cabinet-and-leveldb/
+https://github.com/cloudflare/kyotocabinet
+ 
+ 
+WiredTiger LSM
+http://source.wiredtiger.com/2.3.1/lsm.html
+https://github.com/wiredtiger/wiredtiger
+ 
+ 
+MongoDB
+https://docs.mongodb.com/v3.2/core/wiredtiger/
+http://www.slideshare.net/wiredtiger/
+https://github.com/mongodb/mongo
+ 
+ 
+BoltDB
+https://github.com/boltdb/bolt
+ 
+LMDB
+http://www.openldap.org/pub/hyc/mdb-paper.pdf
+https://github.com/clibs/lmdb
+ 
+ 
+BloomFilter
+https://en.wikipedia.org/wiki/Bloom_filter
+http://www.kdnuggets.com/2016/08/gentle-introduction-bloom-filter.html
+http://blog.bimarian.com/bloom-filters-implementation-in-java/
+http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/
+http://book.realworldhaskell.org/read/advanced-library-design-building-a-bloom-filter.html
+ 
+ 
+Buffer Cache
+http://www.tldp.org/LDP/sag/html/buffer-cache.html
